@@ -16,6 +16,6 @@ var x Go
 
 func main() {
 	fmt.Printf("%v\n%T\n", x, x)
-	x = 42
 	fmt.Println(x)
+
 }
